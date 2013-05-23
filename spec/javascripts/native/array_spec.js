@@ -23,8 +23,3 @@ describe("Array", function () {
     });
 });
 
-
-describe("Module addition", function () {
-    it("should add the numbers together with our module");
-});
-
